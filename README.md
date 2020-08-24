@@ -1,2 +1,2 @@
 # Hackerrank
-My solution to hackerrank questions using Java 
+My Java solutions to a variety of hackerrank questions
