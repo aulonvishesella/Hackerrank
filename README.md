@@ -2,7 +2,7 @@
 My Java solutions to a variety of hackerrank questions
 
 
-| Question | Description |
+| Question | Java Solution |
 | --- | --- |
-| [Lets go to Quora](https://www.quora.com) | List all new or modified files |
+| [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem) | [a link](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution.java) |
 |  | Show file differences that haven't been staged |
