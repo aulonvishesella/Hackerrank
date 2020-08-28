@@ -24,4 +24,4 @@ My Java solutions to a variety of hackerrank questions
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Plus%20Minus/Solution.java) |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Simple%20Array%20Sum/Solution.java) |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Staircase/Solution.java) |
-| [Time Conversion](https://www.hackerrank.com/challenges/staircase/problem) | [My Solution](https://www.hackerrank.com/challenges/time-conversion/problem) |
+| [Time Conversion](https://www.hackerrank.com/challenges/staircase/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Time%20Conversion/Solution.java) |
