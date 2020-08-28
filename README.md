@@ -1,5 +1,5 @@
 # Hackerrank
-My Java solutions to a variety of hackerrank questions
+My Java solutions to hackerrank problems
 
 
 | Question | Java Solution |
