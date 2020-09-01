@@ -10,7 +10,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the kangaroo function below.
+    //o(n) time complexity
     static String kangaroo(int x1, int v1, int x2, int v2) {
         int count=0;
         int k1= x1;
