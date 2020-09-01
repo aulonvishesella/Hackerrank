@@ -10,7 +10,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the libraryFine function below.
+    // o(1) time complexity
     static int libraryFine(int d1, int m1, int y1, int d2, int m2, int y2) {
     	
             if(y1<y2 && m1<m2 || y1==y2 && m1<m2){
