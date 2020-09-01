@@ -11,7 +11,7 @@ package Solution;
 
 	public class Solution {
 
-	    // Complete the breakingRecords function below.
+	    // o(n) time complexity
 	    static int[] breakingRecords(int[] scores) {
 	        int minChange = 0;
 	        int maxChange =0;
