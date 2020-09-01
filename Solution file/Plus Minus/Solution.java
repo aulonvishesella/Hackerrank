@@ -10,7 +10,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the plusMinus function below.
+    // O(n) time complexity
     static void plusMinus(int[] arr) {
         
         float pNum = 0;
