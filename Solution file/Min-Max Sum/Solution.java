@@ -10,7 +10,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the miniMaxSum function below.
+    // O(n) time complexity
     static void miniMaxSum(int[] arr) {
             long min = arr[0];
             long max = arr[0];
