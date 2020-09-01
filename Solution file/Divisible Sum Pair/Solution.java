@@ -2,6 +2,7 @@ package Solution;
 
 public class Solution {
 	 
+	//o(n) time complexity
 	static int divisibleSumPairs(int n, int k, int[] ar) {
          //n= length of ar
          //k = what we need to divide it by
