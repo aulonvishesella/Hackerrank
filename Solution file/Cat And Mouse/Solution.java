@@ -10,7 +10,7 @@ import java.util.regex.*;
 
 public class Solution {
     
-    // Complete the catAndMouse function below.
+    // o(1) time complexity
     static String catAndMouse(int x, int y, int z) {
 
         if(Math.abs(z-x) < Math.abs(z-y)){
