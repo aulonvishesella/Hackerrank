@@ -10,7 +10,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the birthdayCakeCandles function below.
+    //o(n) time complexity
     static int birthdayCakeCandles(int[] ar) {
         int counter = 0;
         int max = ar[0];
