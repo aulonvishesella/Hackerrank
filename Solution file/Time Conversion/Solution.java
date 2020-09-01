@@ -1,9 +1,9 @@
 package Solution;
 
 public class Solution {
-   /*
-     * Complete the timeConversion function below.
-     */
+   
+   
+   //o(1) time complexity
     static String timeConversion(String s) {
         
     	//if 12PM,  military time remains the same
