@@ -2,6 +2,7 @@ package Solution;
 
 public class Solution {
   
+  //time complexity O(n)
   static long aVeryBigSum(long[] ar) {
             long bigSum = 0;
             for(int i = 0; i<ar.length;i++){
