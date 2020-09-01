@@ -8,6 +8,8 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+
+//time complexity O(n^3)
 public class Solution {
 
     // Complete the acmTeam function below.
