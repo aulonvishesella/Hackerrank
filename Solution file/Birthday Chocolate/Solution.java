@@ -10,7 +10,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the birthday function below.
+    // o(n^2) time complexity
     //d =day of ron's bday, m=month of ron's bday
     static int birthday(List<Integer> s, int d, int m) {
         int counter=0;
