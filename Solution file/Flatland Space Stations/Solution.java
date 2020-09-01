@@ -10,7 +10,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the flatlandSpaceStations function below.
+    // o(n^2) time complexity
     static int flatlandSpaceStations(int n, int[] c) {
         int []distances = new int[1];
         int tempDistance=0;
