@@ -19,6 +19,8 @@ class Result {
      *  2. INTEGER_ARRAY b
      */
 
+    
+    //o(n^2) time complexity
     public static int getTotalX(List<Integer> a, List<Integer> b) {
     // Write your code here
     int counter = 0;
