@@ -4,6 +4,7 @@ My Java solutions to hackerrank problems
 
 | Problem | Java Solution |
 | --- | --- |
+| [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Circular%20Rotated%20Arrays/Solution.java) |
 | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/ACM%20ICPC%20Team/Solution.java) |
 | [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Solve%20Me%20First/Solution.java) |
 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/A%20Very%20Big%20Sum/Solution.java) |
