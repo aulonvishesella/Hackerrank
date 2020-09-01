@@ -25,4 +25,4 @@ My Java solutions to hackerrank problems
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Simple%20Array%20Sum/Solution.java) |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Staircase/Solution.java) |
 | [Time Conversion](https://www.hackerrank.com/challenges/staircase/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Time%20Conversion/Solution.java) |
-| [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Time%20Conversion/Solution.java) |
+| [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Library%20Fine/Solution.java) |
