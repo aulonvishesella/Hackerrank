@@ -8,7 +8,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the compareTriplets function below.
+    // O(n) time complexity
     static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
     	
             int aScore = 0;
