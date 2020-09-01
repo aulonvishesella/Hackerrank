@@ -1,11 +1,8 @@
 package Solution;
 
 public class Solution {
-    /*
-     * Complete the getMoneySpent function below.
-     */
+    //o(n^2) time complexity
     static int getMoneySpent(int[] keyboards, int[] drives, int b) {
-     
         int maxExpenditure = 0;
         //for each keyboard, we loop through each drive
         for(int i=0;i<keyboards.length;i++){
