@@ -8,6 +8,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+//O(n^2) time complexity
 public class Solution {
 
     // Complete the staircase function below.
