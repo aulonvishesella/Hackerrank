@@ -9,7 +9,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the extraLongFactorials function below.
+    // o(n) time complexity
     static void extraLongFactorials(int n) {
       BigInteger temp = BigInteger.valueOf(1);
  
