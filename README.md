@@ -27,3 +27,4 @@ My Java solutions to hackerrank problems
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Staircase/Solution.java) |
 | [Time Conversion](https://www.hackerrank.com/challenges/staircase/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Time%20Conversion/Solution.java) |
 | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Library%20Fine/Solution.java) |
+| [Cat and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Cat%20And%20Mouse/Solution.java) |
