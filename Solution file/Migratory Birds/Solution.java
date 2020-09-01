@@ -8,6 +8,8 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+
+//o(n) time complexity
 public class Solution {
 
     // Complete the migratoryBirds function below.
@@ -17,14 +19,14 @@ public class Solution {
 
        //for each int inside the array
         for(Integer x:arr){
-         //if the hash map does not contain that key element, then we add it and set counter as 1
-         if(!hm.containsKey(x)){
-            hm.put(x,1);
-         } 
-         //else we increase counter for that element
-         else{
-            hm.put(x, hm.get(x)+1);
-         }
+             //if the hash map does not contain that key element, then we add it and set counter as 1
+             if(!hm.containsKey(x)){
+                hm.put(x,1);
+             } 
+             //else we increase counter for that element
+             else{
+                hm.put(x, hm.get(x)+1);
+             }
         }
         //now we loop to retrieve the key element with the highest frequency
         Integer minKey = (Integer) hm.keySet().toArray()[0];
