@@ -2,7 +2,7 @@
 My Java solutions to hackerrank problems
 
 
-| Question | Java Solution |
+| Problem | Java Solution |
 | --- | --- |
 | [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Solve%20Me%20First/Solution.java) |
 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/A%20Very%20Big%20Sum/Solution.java) |
