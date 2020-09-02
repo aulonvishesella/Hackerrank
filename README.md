@@ -5,6 +5,7 @@ My Java solutions to hackerrank problems
 | Problem | Java Solution |
 | --- | --- |
 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Circular%20Rotated%20Arrays/Solution.java) |
+| [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Encryption/Solution.java) |
 | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem#:~:text=Flatland%20is%20a%20country%20with,connect%20with%20the%20last%20city.) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Flatland%20Space%20Stations/Solution.java) |
 | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/ACM%20ICPC%20Team/Solution.java) |
 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Append%20and%20Delete/Solution.java) |
