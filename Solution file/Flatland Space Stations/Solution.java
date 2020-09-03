@@ -1,5 +1,3 @@
-package Solution;
-
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -8,11 +6,12 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+//o(n^2) time complexity
 public class Solution {
 
-    // o(n^2) time complexity
+    // Complete the flatlandSpaceStations function below.
     static int flatlandSpaceStations(int n, int[] c) {
-        int []distances = new int[1];
+       int []distances = new int[1];
         int tempDistance=0;
         int dis=0;
         for(int i=0;i<n;i++){
@@ -28,9 +27,6 @@ public class Solution {
                 distances[0] = tempDistance;
             }
         }      
-
-       
         return distances[0];
         
     }
-}
