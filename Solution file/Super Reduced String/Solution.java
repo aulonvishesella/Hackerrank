@@ -7,9 +7,8 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+//O(n) time complexity
 public class Solution {
-
-    // Complete the superReducedString function below.
     static String superReducedString(String s) {
         int i=1;
         while(i<s.length()){
