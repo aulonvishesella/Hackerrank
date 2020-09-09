@@ -37,4 +37,4 @@ My Java solutions to hackerrank problems
 | [Hackerrank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Hackerrank%20in%20a%20String/Solution.java) |
 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Super%20Reduced%20String/Solution.java) |
 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Sherlock%20and%20Squares/Solution.java) |
-| [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Sherlock%20and%20Squares/Solution.java) |
+| [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Fair%20Rations/Solution.java) |
