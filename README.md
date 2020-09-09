@@ -1,7 +1,8 @@
 # Hackerrank
-My Java solutions to hackerrank problems
 
 
+
+Problem Solving Questions
 | Problem | Java Solution |
 | --- | --- |
 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Circular%20Rotated%20Arrays/Solution.java) |
@@ -38,3 +39,13 @@ My Java solutions to hackerrank problems
 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Super%20Reduced%20String/Solution.java) |
 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Sherlock%20and%20Squares/Solution.java) |
 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Fair%20Rations/Solution.java) |
+
+
+
+The HackerRank Interview Preparation Kit - Arrays
+| Problem | Java Solution |
+| --- | --- |
+| [Arrays Left Rotations](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Circular%20Rotated%20Arrays/Solution.java) |
+
+
+
