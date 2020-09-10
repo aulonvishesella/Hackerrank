@@ -45,7 +45,7 @@ Problem Solving Questions
 The HackerRank Interview Preparation Kit - Arrays
 | Problem | Java Solution |
 | --- | --- |
-| [Arrays Left Rotations](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Circular%20Rotated%20Arrays/Solution.java) |
+| [Arrays Left Rotations](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Rotate%20Left%20Array/Solution.java) |
 
 
 
