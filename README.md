@@ -1,6 +1,15 @@
 # Hackerrank
 
 
+The HackerRank Interview Preparation Kit - Arrays
+| Problem | Java Solution |
+| --- | --- |
+| [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Minimum%20Swaps%202/Solution.java) |
+| [Arrays Left Rotations](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Rotate%20Left%20Array/Solution.java) |
+| [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/tree/master/Solution%20file/New%20Year%20Chaos) |
+| [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/2d%20array/Solution.java) |
+
+
 
 Problem Solving Questions
 | Problem | Java Solution |
@@ -41,15 +50,6 @@ Problem Solving Questions
 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Sherlock%20and%20Squares/Solution.java) |
 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Fair%20Rations/Solution.java) |
 
-
-
-The HackerRank Interview Preparation Kit - Arrays
-| Problem | Java Solution |
-| --- | --- |
-| [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Minimum%20Swaps%202/Solution.java) |
-| [Arrays Left Rotations](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Rotate%20Left%20Array/Solution.java) |
-| [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/tree/master/Solution%20file/New%20Year%20Chaos) |
-| [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/2d%20array/Solution.java) |
 
 
 
