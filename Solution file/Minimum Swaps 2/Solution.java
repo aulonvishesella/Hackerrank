@@ -6,9 +6,8 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+//O(n) time complexity
 public class Solution {
-
-    // Complete the minimumSwaps function below.
     static int minimumSwaps(int[] arr) {
         int n= arr.length;
         int i=0;
