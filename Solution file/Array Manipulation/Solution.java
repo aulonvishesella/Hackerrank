@@ -10,7 +10,7 @@ import java.util.regex.*;
 public class Solution {
     static long arrayManipulation(int n, int[][] queries) {
     	long[] arrayToBeManipulated = new long[n+1];
-        //retrieve number of columns
+        //retrieve number of columns = the number of cycles we will go through
         int numberOfCycle = queries.length;
         int cycleCounter=0;
         long sum=0;
