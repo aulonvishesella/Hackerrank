@@ -49,7 +49,7 @@ The HackerRank Interview Preparation Kit - Arrays
 | [Arrays Left Rotations](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Rotate%20Left%20Array/Solution.java) |
 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/tree/master/Solution%20file/New%20Year%20Chaos) |
 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/2d%20array/Solution.java) |
-| [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/2d%20array/Solution.java) |
+| [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Array%20Manipulation/Solution.java) |
 
 
 
