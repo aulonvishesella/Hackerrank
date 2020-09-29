@@ -54,7 +54,7 @@ The HackerRank Interview Preparation Kit - Arrays
 The HackerRank Interview Preparation Kit - LinkedList
 | Problem | Java Solution |
 | --- | --- |
-| [Insert node at a specific position](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Two%20Strings/Solution.java) |
+| [Insert node at a specific position](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Insert%20in%20pos%20single%20linked%20list/SingleLinkedListNode.java) |
 
 The HackerRank Interview Preparation Kit - Dictionaries and HashMap
 | Problem | Java Solution |
