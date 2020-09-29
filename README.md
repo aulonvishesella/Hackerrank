@@ -51,6 +51,11 @@ The HackerRank Interview Preparation Kit - Arrays
 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/2d%20array/Solution.java) |
 | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Array%20Manipulation/Solution.java) |
 
+The HackerRank Interview Preparation Kit - LinkedList
+| Problem | Java Solution |
+| --- | --- |
+| [Insert node at a specific position](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Two%20Strings/Solution.java) |
+
 The HackerRank Interview Preparation Kit - Dictionaries and HashMap
 | Problem | Java Solution |
 | --- | --- |
