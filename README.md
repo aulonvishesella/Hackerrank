@@ -40,6 +40,7 @@ Problem Solving Questions
 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Sherlock%20and%20Squares/Solution.java) |
 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Fair%20Rations/Solution.java) |
 | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Fair%20Rations/Solution.java) |
+| [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Fair%20Rations/Solution.java) |
 
 
 
