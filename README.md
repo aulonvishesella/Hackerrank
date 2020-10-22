@@ -39,6 +39,7 @@ Problem Solving Questions
 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Super%20Reduced%20String/Solution.java) |
 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Sherlock%20and%20Squares/Solution.java) |
 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Fair%20Rations/Solution.java) |
+| [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Fair%20Rations/Solution.java) |
 
 
 
