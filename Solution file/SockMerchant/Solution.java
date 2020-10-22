@@ -10,7 +10,7 @@ import java.util.regex.*;
 //O(n) time complexity
 public class Solution {
 
-    // create a hashmap where the key is the colour of the sock and the value is the count
+    // create a hashmap where the key is the colour of the sock and the value is the number of times that sock is appeared in the array ar[]
     static int sockMerchant(int n, int[] ar) {
         HashMap<Integer, Integer> colours = new HashMap<Integer, Integer>();
         int countPairs=0;
