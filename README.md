@@ -70,4 +70,9 @@ The HackerRank Interview Preparation Kit - Dictionaries and HashMap
 | --- | --- |
 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Two%20Strings/Solution.java) |
 
+The HackerRank Interview Preparation Kit - Stacks and Queues
+| Problem | Java Solution |
+| --- | --- |
+| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Balanced%20Brackets/Solution.java) |
+
 
