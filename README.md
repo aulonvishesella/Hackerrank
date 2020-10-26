@@ -42,7 +42,7 @@ Problem Solving Questions
 | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Fair%20Rations/Solution.java) |
 | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Fair%20Rations/Solution.java) |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Hurdle%20Race/Solution.java) |
-| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Hurdle%20Race/Solution.java) |
+| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Strange%20Advertisment/Solution.java) |
 
 
 
