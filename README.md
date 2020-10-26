@@ -61,6 +61,7 @@ The HackerRank Interview Preparation Kit - LinkedList
 | --- | --- |
 | [Insert node at a specific position](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Insert%20in%20pos%20single%20linked%20list/SingleLinkedListNode.java) |
 | [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=linked-lists) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Insert%20in%20sorted%20double%20linked%20list/Double.java) |
+| [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Insert%20in%20sorted%20double%20linked%20list/Double.java) |
 
 The HackerRank Interview Preparation Kit - Dictionaries and HashMap
 | Problem | Java Solution |
