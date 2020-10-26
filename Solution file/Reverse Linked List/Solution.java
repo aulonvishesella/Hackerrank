@@ -96,3 +96,6 @@ public class Solution {
             }
         }
         return trackedHead;
+    }
+    
+}
