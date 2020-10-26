@@ -17,16 +17,14 @@ public class Solution {
            if(s.charAt(i) == '{' || s.charAt(i)=='[' || s.charAt(i) == '('){
                stack.push(s.charAt(i));
            }
-           //if the character is a closing brace but we have no opening brace at all
-           //tben we know its not balanced already
+           //if stack is empty and we recieve a closing brace, then we know the string is not balanced so we return NO
            else if(stack.isEmpty()){
                return "NO";
            }
            else{
                //we pop the current TOS
                char currentTop = stack.pop();
-               //check the current closing brace char with the current TOS
-               //if matches, then we continue
+               //check the current closing brace char with the current TOS. If matches, then its balanced so we continue
                if(s.charAt(i) == '}' && currentTop == '{'){
                   continue;
                }
@@ -36,14 +34,13 @@ public class Solution {
                else if(s.charAt(i) == ']' && currentTop == '['){
                   continue;
                }
-               //if not, then we know it is not balanced so return no
+               //if not, then we know it string is not balanced so return no
                else{
                    return "NO";
                }
            }
        }
-       //stack is empty if we we have popped all the opening braces because it was 
-       //in a balance order. Therefore return YES if stack is empty else return NO
+       //stack is empty if we we have popped all the opening braces because it was in a balance order. Therefore return YES if stack is empty else return NO
        if(stack.isEmpty()){
            return "YES";
        }
