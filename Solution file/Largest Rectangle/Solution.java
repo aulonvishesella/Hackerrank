@@ -11,15 +11,16 @@ public class Solution {
     Explanation of my solution
         1. Create a stack to maintain the largest rectangle area
         2. loop through each building
-        3. for each building
-            3.a. count the buildings on its left. If the height of the buildings are greater or equal to the current
-                 building, then we add the count. Else, we break.
-            3.b. repeat the same for the buildings on its right.
+        3. If you join  adjacent buildings, they will form a solid rectangle of area. Therefore, we count buildings:
+            3.a. to its left that have a greater or equal height. Else, we break.
+            3.b. to its right that have a greater or equal height. Else, we break.
             
         NOTE: the 'count' in this case is the length that can be constructed within the boundaries for the given building
             
-        4. Then we calculate the area of the rectangle by multiplying the height of its building with the max value between two lengths: 1 or count value 
-        5. If stack is empty, we push onto stack. Else, we compare the area on the stack with the current area calculated. We push onto the stack the larger area
+        4. Calculate the area of the solid rectangle by multiplying the height of the given building with the larger length (1 or count) 
+        5. Then we want to push this area on the stack. 
+             5.a. Check if stack is empty. If it is, we push straight onto stack. Else, we compare the area on the stack with the current area calculated.
+                   We push onto the stack the larger area
         6. Return the only value in the stack as that is the largest area calculated       
     */
    
