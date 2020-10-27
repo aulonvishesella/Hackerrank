@@ -44,9 +44,6 @@ Problem Solving Questions
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Hurdle%20Race/Solution.java) |
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Strange%20Advertisment/Solution.java) |
 
-
-
-
 The HackerRank Interview Preparation Kit - Arrays
 | Problem | Java Solution |
 | --- | --- |
@@ -74,5 +71,6 @@ The HackerRank Interview Preparation Kit - Stacks and Queues
 | Problem | Java Solution |
 | --- | --- |
 | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Balanced%20Brackets/Solution.java) |
+| [A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Balanced%20Brackets/Solution.java) |
 
 
