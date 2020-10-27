@@ -7,13 +7,26 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class Solution {
+    /*
+    Explanation of my solution
+        1. Create a stack to maintain the largest rectangle area
+        2. loop through each building
+        3. for each building
+            3.a. count the buildings on its left. If the height of the buildings are greater or equal to the current
+                 building, then we add the count. Else, we break.
+            3.b. repeat the same for the buildings on its right.
+            
+        NOTE: the 'count' acts as the length for the area
+            
+        4. Then we calculate the area of the rectangle by multiplying the height of its building with the max value between two lengths: 1 or count value 
+        5. If stack is empty, we push onto stack. Else, we compare the area on the stack with the current area calculated. We push onto the stack the larger area
+        6. Return the only value in the stack as that is the largest area calculated       
+    */
+   
     static long largestRectangle(int[] h) {
-            //stack to maintain largest surface
     		Stack<Integer> stack = new Stack();
     		 int count=0;
             for(int i=0;i<h.length;i++){
-               //go through the building towards the left. If the height of the buildings are greater or equal to the current
-                //building, then we add the count
                 for(int j=i;j>=0;j--){
                     if(h[i]<=h[j]){
                         count++;
@@ -22,8 +35,6 @@ public class Solution {
                         break;
                     }
                 }
-                //go through the building towards the right. If the height of the buildings are greater or equal to the current
-                //building, then we add the count
                 for(int x=i+1;x<h.length;x++){
                     if(h[i]<=h[x]){
                         count++;
@@ -32,21 +43,18 @@ public class Solution {
                         break;
                     }
                 }
-                //calculate the total area by multiplying the height of our current building by the max between 1 and
-                //count
+                
                 int totalArea = h[i] * Math.max(count, 1);
-                //if stack is empty, then that total area is pushed straight onto the stack
                 if(stack.isEmpty()){
                     stack.push(totalArea);
                 }
-                //we compare the area on the stack with the current area calculated. We push onto the stack the larger area
+               
                 else{
                     int temp = stack.pop();
                     stack.push(Math.max(temp,totalArea));
                 }
                 count=0;
             }
-            //we return the only value in the stack as that is the largest area calculated
             long number = stack.pop();
             return number;
     }
