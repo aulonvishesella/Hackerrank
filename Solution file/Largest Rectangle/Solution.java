@@ -25,7 +25,7 @@ public class Solution {
    
     static long largestRectangle(int[] h) {
     	
-        Stack<Integer> stack = new Stack();
+            Stack<Integer> stack = new Stack();
     	    int count=0;
             for(int i=0;i<h.length;i++){
                 for(int j=i;j>=0;j--){
