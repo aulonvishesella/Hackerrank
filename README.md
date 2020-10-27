@@ -70,6 +70,7 @@ The HackerRank Interview Preparation Kit - Dictionaries and HashMap
 The HackerRank Interview Preparation Kit - Stacks and Queues
 | Problem | Java Solution |
 | --- | --- |
+| [Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Balanced%20Brackets/Solution.java) |
 | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Balanced%20Brackets/Solution.java) |
 | [A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/A%20Tale%20Of%20Two%20Stacks/Solution.java) |
 
