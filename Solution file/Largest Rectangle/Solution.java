@@ -16,7 +16,7 @@ public class Solution {
                  building, then we add the count. Else, we break.
             3.b. repeat the same for the buildings on its right.
             
-        NOTE: the 'count' acts as the length for the area
+        NOTE: the 'count' in this case is the length that can be constructed within the boundaries for the given building
             
         4. Then we calculate the area of the rectangle by multiplying the height of its building with the max value between two lengths: 1 or count value 
         5. If stack is empty, we push onto stack. Else, we compare the area on the stack with the current area calculated. We push onto the stack the larger area
