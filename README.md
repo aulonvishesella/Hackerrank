@@ -79,7 +79,7 @@ The HackerRank Interview Preparation Kit - Dictionaries and HashMap
 The HackerRank Interview Preparation Kit - String Manipulation
 | Problem | Java Solution |
 | --- | --- |
-| [Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Two%20Strings/Solution.java) |
+| [Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Making%20Anagrams/Solution.java) |
 
 
 
