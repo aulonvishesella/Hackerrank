@@ -74,7 +74,7 @@ The HackerRank Interview Preparation Kit - Dictionaries and HashMap
 | Problem | Java Solution |
 | --- | --- |
 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Two%20Strings/Solution.java) |
-| [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Two%20Strings/Solution.java) |
+| [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Ransom%20Note/Solution.java) |
 
 
 The HackerRank Interview Preparation Kit - String Manipulation
