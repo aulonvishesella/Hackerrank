@@ -44,6 +44,7 @@ Problem Solving Questions
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Hurdle%20Race/Solution.java) |
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Strange%20Advertisment/Solution.java) |
 | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Beautiful%20Substring/Solution.java) |
+| [The Love Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Beautiful%20Substring/Solution.java) |
 
 The HackerRank Interview Preparation Kit - Stacks and Queues
 | Problem | Java Solution |
