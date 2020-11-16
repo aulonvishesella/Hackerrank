@@ -4,6 +4,7 @@
 Problem Solving Questions
 | Problem | Java Solution |
 | --- | --- |
+| [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Cavity/Solution.java) |
 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Circular%20Rotated%20Arrays/Solution.java) |
 | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Encryption/Solution.java) |
 | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | [My Solution](https://github.com/aulonvishesella/Hackerrank/blob/master/Solution%20file/Caesar%20Cipher/Solution.java) |
